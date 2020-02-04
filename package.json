@@ -1,0 +1,24 @@
+{
+  "name": "linter-test",
+  "version": "1.0.0",
+  "description": "Adding linter to the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktoriyaVorozhun/linter-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktoriyaVorozhun/linter-test/issues"
+  },
+  "homepage": "https://github.com/ViktoriyaVorozhun/linter-test#readme",
+  "dependencies": {
+    "create-react-app": "^3.3.1",
+    "eslint": "^6.8.0",
+    "stylelint": "^13.0.0"
+  }
+}
